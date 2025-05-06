@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Markus 👋
 
-<!--
-**priincer7/priincer7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer focused on building web applications with modern technologies. I enjoy creating clean, efficient solutions and continuously learning new tools and frameworks.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Tech Stack
+
+### 🌐 Webtechnologien
+- HTML, CSS, Bootstrap
+- JavaScript, VueJS, Vuetify
+
+### ☕ Java & Backend
+- Spring Boot
+- REST APIs (Dokumentation mit Swagger)
+- JPA & Hibernate
+- Spring Security
+
+### 🗄️ Datenbanken
+- SQL (MariaDB, MySQL, H2)
+
+### 🧰 Tools & IDEs
+- IntelliJ, WebStorm, VS Code
+- Git, Scrum
+
+---
+
+## 🚀 Aktuell arbeite ich an:
+- Einer Web-App zur Anzeige aktueller Finanzdaten 📊
+- Vertiefung meiner Kenntnisse in Spring Security und Docker 🛡️🐳
+
+---
+
+## 📫 Kontakt & Netzwerke
+- 💼 [LinkedIn](https://www.linkedin.com/in/markus-redl-13713a337/)
