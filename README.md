@@ -25,9 +25,9 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building web
 
 ---
 
-## 🚀 Aktuell arbeite ich an:
-- Einer Web-App zur Anzeige aktueller Finanzdaten 📊
-- Vertiefung meiner Kenntnisse in Spring Security und Docker 🛡️🐳
+## 🛠️ Recently Worked On:
+- A web app for displaying up-to-date financial data 📊  
+- Deepening my knowledge in Spring Security and Docker 🛡️🐳  
 
 ---
 
